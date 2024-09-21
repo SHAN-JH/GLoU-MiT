@@ -6,7 +6,7 @@
 
 ## Network Architecture
 <p align="center">
-  <img src="./figures/img1.png" alt="architecture" width="60%">
+  <img src="./assets/img1.png" alt="architecture" width="60%">
 </p>
 
 ## Datasets
